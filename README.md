@@ -2,7 +2,7 @@
 
 #### Tools, that i used:
 - Snowflake 
-- dbt Cloud ('new' branch)
+- dbt Cloud (changes in 'new' branch)
 - Looker Studio ([dashboard](https://lookerstudio.google.com/reporting/a500a724-9804-4873-94f9-1f31ca042cf7))
 
 #### Problems:
