@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: platforms
+    database: raw
+    schema: platforms
+    tables:
+      - name: bing
+      - name: facebook
+      - name: tiktok
+      - name: twitter
