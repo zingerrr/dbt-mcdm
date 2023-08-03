@@ -1,8 +1,12 @@
+### Task:
+Marketing common data models (MCDM) are using for map data from various ad platforms into a single one. MCDM can help marketers with various questions about marketing metrics. 
+From raw ad systems data you need to build MCDM with metrics like: cost per engage, conversion cost, impressions by channel, cost per click.
+
 ### Report:
 
 #### Tools, that i used:
-- Snowflake 
-- dbt Cloud 
+- Snowflake (DWH)
+- dbt Cloud (ETL)
 - Looker Studio ([dashboard](https://lookerstudio.google.com/reporting/a500a724-9804-4873-94f9-1f31ca042cf7))
 
 #### Problems:
